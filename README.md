@@ -65,30 +65,32 @@ API responses for reduced bounce rates.
 
 **Main Challenge**  
 The biggest challenge in this project was achieving: 
-● High performance 
-● Responsive design 
-● SEO visibility 
-● Secure backend processing 
+- High performance 
+- Responsive design 
+- SEO visibility 
+- Secure backend processing 
 
 **How I Solved It**  
 I solved the challenges through a multi-layered approach: 
-1. Mobile-first UI development 
-I built React components and layouts that adapt smoothly to different screen sizes with 
-clean layouts and visual consistency. 
-2. Backend designed for security and scalability 
-○ Sensitive data encrypted 
-○ API authentication for protected routes 
-○ SQL and NoSQL databases used together to manage different types of data 
-efficiently 
-3. Advanced SEO strategy 
-○ Server-side rendering for improved crawlability 
-○ Structured metadata 
-○ SEO-friendly routing 
-○ Faster load times to improve ranking signals 
-4. Performance Optimization 
-○ Lazy loading of images 
-○ Code splitting to avoid large bundle downloads 
-○ Asset and database query optimization 
+### 1. **Mobile-first UI Development**
+I built React components and layouts that adapt smoothly to different screen sizes with clean layouts and visual consistency.
+
+### 2. **Backend Designed for Security and Scalability**
+- **Sensitive data encrypted**  
+- **API authentication** for protected routes  
+- **SQL + NoSQL databases** used together to manage different types of data efficiently  
+
+### 3. **Advanced SEO Strategy**
+- **Server-side rendering (SSR)** for improved crawlability  
+- **Structured metadata**  
+- **SEO-friendly routing**  
+- **Faster load times** to improve ranking signals  
+
+### 4. **Performance Optimization**
+- **Lazy loading of images**  
+- **Code splitting** to avoid large bundle downloads  
+- **Asset and database query optimization**
+
 This resulted in smoother user experience, quicker load times, and measurable ranking 
 improvements.
 
