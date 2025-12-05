@@ -44,7 +44,7 @@ I worked as the Fullstack Developer and took complete ownership of:
 - **React.js** – For modular, reusable UI components and fast client-side interactions  
 - **HTML, CSS, JavaScript** – For layout, styling, and user interaction  
 - **Node.js + Express.js** – Backend APIs and routing  
-- **Java (microservices)** – Handling transactional and business logic services securely  
+- **Java** – Handling transactional and business logic services securely  
 - **SQL Database** – For structured data like users, orders, and transactions  
 - **NoSQL Database** – For flexible data like product details, images, and reviews  
 - **Lazy Loading & Code Splitting** – To improve speed and load performance  
