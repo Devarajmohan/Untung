@@ -11,6 +11,9 @@ traffic, conversions, and customer engagement.
 When the client approached me, their main goal was to enter a highly competitive online fashion 
 market. However, to compete effectively, they needed much more than just a basic online store. 
 
+<img width="100%"  alt="u1 (1)" src="https://github.com/user-attachments/assets/7d6e993b-7dca-4b12-8074-600855a45a35" />
+
+
 **They had four major challenges:**  
 1. They needed a visually appealing, user-friendly shopping platform that worked smoothly 
 across devices, especially mobile, where most fashion purchases take place today. 
